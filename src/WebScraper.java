@@ -24,6 +24,7 @@ public class WebScraper {
                 System.out.println(word.toLowerCase());
             }
         }
+        return word;
     }
 
 
